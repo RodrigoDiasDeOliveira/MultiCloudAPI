@@ -2,7 +2,8 @@
 API com suporte ao Oracle Cloud para backup e recuperação, além de continuar com suporte ao AWS, GCP e Azure.
 
 
-![multiCloud backups](https://github.com/user-attachments/assets/7f65b175-46f1-4ceb-98a4-7ab22d3c233a)
+![new sem titulo](https://github.com/user-attachments/assets/7a9b8484-c5bb-40f6-9805-8c5d4579e1ff)
+
 
 
 versão atualizada da API com suporte ao Oracle Cloud para backup e recuperação, além de continuar com suporte ao AWS, GCP e Azure.
