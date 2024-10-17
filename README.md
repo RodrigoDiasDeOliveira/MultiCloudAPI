@@ -1,6 +1,10 @@
 # MultiCloudAPI
 API com suporte ao Oracle Cloud para backup e recuperação, além de continuar com suporte ao AWS, GCP e Azure.
 
+
+![multiCloud backups](https://github.com/user-attachments/assets/7f65b175-46f1-4ceb-98a4-7ab22d3c233a)
+
+
 versão atualizada da API com suporte ao Oracle Cloud para backup e recuperação, além de continuar com suporte ao AWS, GCP e Azure.
 ****Será necessário utilizar a biblioteca oficial do Oracle Cloud SDK para Python.****
 
