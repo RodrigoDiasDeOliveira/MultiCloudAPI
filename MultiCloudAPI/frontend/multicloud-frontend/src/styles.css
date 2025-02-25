@@ -1,0 +1,12 @@
+body {
+    background-color: #f8f9fa;
+  }
+  .card {
+    border-radius: 10px;
+  }
+  .btn {
+    transition: all 0.3s;
+  }
+  .btn:hover {
+    opacity: 0.9;
+  }
