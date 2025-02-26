@@ -7,7 +7,7 @@ API com suporte ao Oracle Cloud para backup e recuperação, além de continuar 
 
 
 versão atualizada da API com suporte ao Oracle Cloud para backup e recuperação, além de continuar com suporte ao AWS, GCP e Azure.
-****Será necessário utilizar a biblioteca oficial do Oracle Cloud SDK para Python.****
+
 
 I# MultiCloudProject
 
