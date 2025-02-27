@@ -86,4 +86,32 @@ Desarrollé este proyecto para ahorrar tiempo a equipos de TI, DevOps y desarrol
 
 ---
 
-Obrigado por apoiar a inovação em tecnologia multi-nuvem! / Thank you for supporting multi-cloud tech innovation! / ¡Gracias por apoyar la innovación en tecnología multi-nube!
+## Valencià 
+
+Benvingut a `MultiCloudAPI` — una eina per a gestionar l'emmagatzematge multi-núvol (AWS, Azure, OCI, GCP) amb registres consolidats i simplicitat operativa!
+
+### Sobre el Projecte
+He desenvolupat aquest projecte per a estalviar temps a equips de TI, DevOps i desenvolupadors, centralitzant operacions en múltiples núvols. Amb una API en Java/Spring Boot i un frontend en React, destaca pels registres unificats, l'enfocament en emmagatzematge i la facilitat d'ús — diferent de CloudBolt o MultCloud.
+
+### Funcionalitats
+- **Backend**: Pujada, descàrrega, eliminació, llistat paginat, registres persistents (H2).
+- **Frontend**: Interfície React per a pujada, llistat i visualització de registres.
+- **Proveïdors**: AWS S3, Azure Blob, OCI Object Storage, GCP Storage.
+
+### Com Utilitzar-lo
+1. Clona: `git clone https://github.com/RodrigoDiasDeOliveira/MultiCloudAPI`
+2. Backend: `cd backend && mvn spring-boot:run`
+3. Frontend: `cd frontend && npm install && npm start`
+4. Consulta els README a `backend/` i `frontend/`.
+
+### Dona Suport al Projecte
+T'ha agradat? Ajuda'm a continuar desenvolupant-lo amb una petita contribució!
+- **Pix**: `rodrigodigau02@gmail.com`
+- **PayPal**: [paypal.me/rodrigodiasdev](https://paypal.me/rodrigodiasdev)
+
+### Contacte
+[LinkedIn](https://www.linkedin.com/in/rodrigodiasdeoliveiradev) o obri un issue ací!
+
+---
+
+Obrigado / Thank you / Gracias / Gràcies por apoiar a inovação em tecnologia multi-nuvem!
